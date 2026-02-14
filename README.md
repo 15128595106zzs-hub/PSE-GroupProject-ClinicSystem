@@ -1,5 +1,5 @@
 # Project Title: University Clinic Appointment System
-[cite_start]**Chosen SDG:** SDG 3 - Good Health and Well-Being [cite: 53]
+**Chosen SDG:** SDG 3 - Good Health and Well-Being
 
 ## Team Members & Roles
 1. [ZHAO ZISHUO] - Lead Developer (GitHub & Prototype)
