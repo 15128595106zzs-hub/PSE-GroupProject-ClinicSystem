@@ -3,10 +3,10 @@
 
 ## Team Members & Roles
 1. [ZHAO ZISHUO] - Lead Developer (GitHub & Prototype)
-2. [Name] - Scrum Master (Trello & Agile Process)
+2. [Georgius bertrand Raphael Wencelas] - Scrum Master (Trello & Agile Process)
 3. [LU YINGWEN] - Systems Analyst (UML & Testing)
-4. [Name] - UI/UX Designer (Design & Mockups)
-5. [Name] - Documentation & QA (Final Report)
+4. [XIANG ZIYANG] - UI/UX Designer (Design & Mockups)
+5. [Khaled Barakeh] - Documentation & QA (Final Report)
 
 ## Project Description
 Our idea is a digital appointment booking platform for university clinics to reduce wait times and improve health access for students.
