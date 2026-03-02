@@ -12,12 +12,12 @@ This document records the interaction testing of the Figma prototype. Since this
 
 | Test ID | Feature | Action | System Response | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **TC-01** | **User Authentication** | Click "LOGIN"  1. | System navigates to "Select Clinical Department" (Screen 2). | **Pass** |
-| **TC-02** | **Dept Selection** | Click "General Medicine"  2. | System navigates to "Appointment Details" (Screen 3). | **Pass** |
-| **TC-03** | **Availability Logic** | Observe the "02:00 PM" slot 3. | Slot is greyed out/disabled, reflecting "Slot Full" logic from Sequence Diagram. | **Pass** |
-| **TC-04** | **Booking Process** | Click "CONFIRM BOOKING" 3. | System displays "Appointment Successful!" (Screen 4) with correct summary. | **Pass** |
-| **TC-05** | **Navigation Loop** | Click "BACK TO DASHBOARD" 4. | System returns to the Select screen. | **Pass** |
-| **TC-06** | **Logout** | Click "Logout" 4. | System returns to the Login screen. | **Pass** |
+| **TC-01** | **User Authentication** | Click "LOGIN"   | System navigates to "Select Clinical Department" (Screen 2). | **Pass** |
+| **TC-02** | **Dept Selection** | Click "General Medicine"   | System navigates to "Appointment Details" (Screen 3). | **Pass** |
+| **TC-03** | **Availability Logic** | Observe the "02:00 PM" slot  | Slot is greyed out/disabled, reflecting "Slot Full" logic from Sequence Diagram. | **Pass** |
+| **TC-04** | **Booking Process** | Click "CONFIRM BOOKING"  | System displays "Appointment Successful!" (Screen 4) with correct summary. | **Pass** |
+| **TC-05** | **Navigation Loop** | Click "BACK TO DASHBOARD"  | System returns to the Select screen. | **Pass** |
+| **TC-06** | **Logout** | Click "Logout"  | System returns to the Login screen. | **Pass** |
 
 ## 4. Conclusion
 The prototype successfully demonstrates all core functional paths defined in the Sequence Diagram. All interactive elements respond correctly to user input.
