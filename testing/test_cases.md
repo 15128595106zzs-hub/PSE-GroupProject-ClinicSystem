@@ -11,7 +11,7 @@ This document records the interaction testing of the Figma prototype. Since this
 ## 3. Test Cases & Results
 
 | Test ID | Feature | Action | System Response | Screenshot | Status |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | **TC-01** | **User Authentication** | Click "LOGIN"   | System navigates to "Select Clinical Department" (Screen 2). | <img src="test_login.png" width="150"> | **Pass** |
 | **TC-02** | **Dept Selection** | Click "General Medicine"   | System navigates to "Appointment Details" (Screen 3). | <img src="test_dept.png" width="150"> | **Pass** |
 | **TC-03** | **Availability Logic** | Observe the "02:00 PM" slot  | Slot is greyed out/disabled, reflecting "Slot Full" logic from Sequence Diagram. | <img src="test_details.png" width="150"> | **Pass** |
